@@ -1,0 +1,15 @@
+[
+  {
+    "role": "ADMIN"
+  },
+  {
+    "role": "HR"
+  },
+  {
+    "role": "PROJECT_MANAGER"
+  },
+  {
+    "role": "EMPLOYEE"
+  }
+]
+
